@@ -415,7 +415,7 @@
                                 <div class="card card-tale">
                                     <div class="card-body">
                                         <p class="mb-4">Today’s Bookings</p>
-                                        <p class="fs-30 mb-2">4006</p>
+                                        <p class="fs-30 mb-2">4006 edited from the partner</p>
                                         <p>10.00% (30 days)</p>
                                     </div>
                                 </div>
