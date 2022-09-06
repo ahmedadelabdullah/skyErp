@@ -13,5 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/admin/dashboard' , 'App\Http\Controllers\Admin\AdminController@dashboard');
+Route::get('/' , 'App\Http\Controllers\Admin\AdminController@dashboard');
+Route::resource('admin/suppliers' , 'App\Http\Controllers\Admin\SupplierController');
 
